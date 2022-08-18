@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Default">
+      <UniqueIdentifier>{b53d058d-ffa6-4f13-888c-320f7924c063}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Default\Main">
+      <UniqueIdentifier>{74a5128f-0d12-4299-bd98-0433de1e65ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{a24d6c77-5623-4605-a94d-422286a7c65b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\D3DApp">
+      <UniqueIdentifier>{176735a5-7247-44a0-8c38-562dd967bc3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Central">
+      <UniqueIdentifier>{f9af3eff-bb29-4e32-ba64-a714cb26fd9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Manager">
+      <UniqueIdentifier>{cb93f9fc-092b-462c-a8ee-4c92ca76bb30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Manager\TimeMgr">
+      <UniqueIdentifier>{fc4f4b71-ce20-4737-bd2b-f0c10f234af5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Object">
+      <UniqueIdentifier>{063daf2b-a9d2-4fb2-85ee-b4d5836ecc6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Object\Player">
+      <UniqueIdentifier>{7c35b531-5ed5-4487-b419-a3ba206318be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Object\Monster">
+      <UniqueIdentifier>{de9114d9-ea17-421f-8915-75a6160644bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Scene">
+      <UniqueIdentifier>{1ec7f6e7-6af8-40b9-8d96-9713d247bbd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Manager\SceneMgr">
+      <UniqueIdentifier>{a6371dd2-0b36-4bf6-ad9e-8bac37c0c655}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Default\Define">
+      <UniqueIdentifier>{8c1928fb-7415-4720-800a-9b639b326796}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Shader">
+      <UniqueIdentifier>{6557d33f-62b9-4082-84aa-5ebc0d2cb648}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Manager\ShaderMgr">
+      <UniqueIdentifier>{8e2d8fa9-e803-4f60-afa1-d40ea58e48eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Buffer">
+      <UniqueIdentifier>{b51fe340-46dc-4b36-8e1e-becb2f7e2325}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Texture">
+      <UniqueIdentifier>{c5010732-52fd-4149-a6c4-aefc6848aa13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Manager\KeyMgr">
+      <UniqueIdentifier>{00d33a34-821a-4482-9fde-dbd28e4ce3df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Buffer\ObjectBuffer">
+      <UniqueIdentifier>{893cae71-a46b-4535-b6f4-7daddf38178b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Object\Structure">
+      <UniqueIdentifier>{95cd200a-b0e5-411e-8662-603e78b832fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Manager\TextureMgr">
+      <UniqueIdentifier>{99694e4a-d8d9-43cb-8e99-85a21e4294bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Texture\TextureLoader">
+      <UniqueIdentifier>{84dc94a0-8409-4817-88f6-bfc6277db44d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Camera">
+      <UniqueIdentifier>{eb1e9714-7f4d-4ac2-9af8-04aec5465e93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Manager\FbxMgr">
+      <UniqueIdentifier>{59f83186-70a3-44c3-bae8-44a5f29a1070}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Component">
+      <UniqueIdentifier>{3be77b4e-b3c3-409b-8f30-f32ba33bb8db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Component\PlayerController">
+      <UniqueIdentifier>{a7ac2b50-f166-44e0-b62d-7b105583c1ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Shader\DepthShader">
+      <UniqueIdentifier>{79de708f-1209-4df5-bb18-3605fb27df47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Shader\CommonShader">
+      <UniqueIdentifier>{f682bda3-bc4b-45b5-8c27-1f5af055b701}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Light">
+      <UniqueIdentifier>{57567932-95b5-47fe-b0a8-5112f137110c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Default\etc">
+      <UniqueIdentifier>{06612003-91e1-4507-b1de-cf5d0d70de75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Shader\ShadowShader">
+      <UniqueIdentifier>{c728db5b-2db3-4a63-bbff-2a6f48a98eed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Texture\TextureClass">
+      <UniqueIdentifier>{9bec02c4-4bed-4d7d-a087-d74bf890e0c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Texture\DepthTexture">
+      <UniqueIdentifier>{988efb07-c79f-4d96-9b03-2915b0d33e72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Buffer\UIBuffer">
+      <UniqueIdentifier>{4f3aee9a-c407-40ca-9651-1de1a77364db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Shader\UIShader">
+      <UniqueIdentifier>{ba9ceb34-3f9b-47b0-a7d9-38d0d5ad45c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\UI">
+      <UniqueIdentifier>{a0e1cb9a-1dd2-4a80-a28a-83c80ca803b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Manager\UIMgr">
+      <UniqueIdentifier>{75b6fc61-fdf4-4de2-989d-4c31344b88b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Scene\Stage1Scene">
+      <UniqueIdentifier>{baf03ef3-3701-4025-91d3-d3902e932af0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Scene\StartScene">
+      <UniqueIdentifier>{72042b44-1d52-4895-9c86-a422def71b56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Component\Collider">
+      <UniqueIdentifier>{bfda44aa-4132-428f-bfe1-6da0a4cbdc43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Buffer\ColliderBuffer">
+      <UniqueIdentifier>{1236573f-6a10-4f65-b833-6acca4e338fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Shader\ColliderShader">
+      <UniqueIdentifier>{1b5dc09c-4bac-45db-a2ed-256f09a58b90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Manager\CollisionMgr">
+      <UniqueIdentifier>{a616ead8-6081-4bf7-9d18-e9ff4612bc8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Component\RigidBody">
+      <UniqueIdentifier>{d5c29f4b-b749-4e2b-8069-b67ee3da535a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Manager\EventMgr">
+      <UniqueIdentifier>{67221398-8228-47a4-8a0b-b361ee333909}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Object\Structure\Wall">
+      <UniqueIdentifier>{356fd9b6-724e-4183-8803-44dec3312823}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Object\Structure\Plane">
+      <UniqueIdentifier>{eb6856a4-fa0e-4d99-a6d7-2d9b52dba4e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\MonsterState">
+      <UniqueIdentifier>{e70a8553-334d-4b69-ab37-c4f59822fa15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\MonsterState\IdleState">
+      <UniqueIdentifier>{a7c07d04-3bca-469f-9b29-c17e70e97c53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\MonsterState\PatrolState">
+      <UniqueIdentifier>{c8682000-b3e0-4bfc-8c4e-794b451b6fd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\MonsterState\AttackState">
+      <UniqueIdentifier>{593e2683-6020-4e1b-8f05-003d15ec3363}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\MonsterState\ChaseState">
+      <UniqueIdentifier>{4637a384-38a9-44fc-a33b-a50fa6511e04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Object\Bullet">
+      <UniqueIdentifier>{89d6363e-31d5-4af4-bab4-1854dae3b461}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Scene\Stage2Scene">
+      <UniqueIdentifier>{fe361ec7-dd40-465a-8adc-0dc8626d1f21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Scene\Stage3Scene">
+      <UniqueIdentifier>{805b1ded-4977-49a0-bea7-2713749197dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\UI\PanelUI">
+      <UniqueIdentifier>{9b811c85-7002-4896-b8c9-7a5cfd6dabd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\UI\Stage1Button">
+      <UniqueIdentifier>{f492f6de-a324-42cf-a4d9-9d0d10730a92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\UI\Stage2Button">
+      <UniqueIdentifier>{fedfec88-64f8-40a9-96c0-94056e59c737}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\UI\Stage3Button">
+      <UniqueIdentifier>{c59b131a-c4ff-4082-a8df-983cc3aea288}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\UI\ResumeButton">
+      <UniqueIdentifier>{ce620118-e10f-47fe-a35f-311824678b42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\UI\MenuButton">
+      <UniqueIdentifier>{34b78455-a82f-4c2e-b951-cc67aefd432f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Manager\BufferMgr">
+      <UniqueIdentifier>{a34f84ea-c940-40da-bf96-6989368aa674}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Object\Monster\NormalMonster">
+      <UniqueIdentifier>{e25ca776-e47f-459c-80a5-a75ca3aebeb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Object\Monster\EpicMonster">
+      <UniqueIdentifier>{cc326242-0de5-4115-b87f-cf7193acd800}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Manager\GameMgr">
+      <UniqueIdentifier>{f386ba4e-d188-43fd-8002-4396af723f39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\UI\ExitButton">
+      <UniqueIdentifier>{4ee638b6-89d7-4f08-bce0-4a236a9fdea3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Endless.h">
+      <Filter>Default\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Default\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Default\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Default\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="CTimeMgr.h">
+      <Filter>Core\Manager\TimeMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CD3DApp.h">
+      <Filter>Core\D3DApp</Filter>
+    </ClInclude>
+    <ClInclude Include="CCentral.h">
+      <Filter>Core\Central</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>Default\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="CObject.h">
+      <Filter>Core\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="CScene.h">
+      <Filter>Core\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="CStartScene.h">
+      <Filter>Core\Scene\StartScene</Filter>
+    </ClInclude>
+    <ClInclude Include="CSceneMgr.h">
+      <Filter>Core\Manager\SceneMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CCommonShader.h">
+      <Filter>Core\Shader\CommonShader</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayer.h">
+      <Filter>Core\Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="enum.h">
+      <Filter>Default\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="CShaderMgr.h">
+      <Filter>Core\Manager\ShaderMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>Default\Define</Filter>
+    </ClInclude>
+    <ClInclude Include="DDSTextureLoader11.h">
+      <Filter>Core\Texture\TextureLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="CKeyMgr.h">
+      <Filter>Core\Manager\KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="AlignedAllocationPolicy.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="CObjectBuffer.h">
+      <Filter>Core\Buffer\ObjectBuffer</Filter>
+    </ClInclude>
+    <ClInclude Include="CStructure.h">
+      <Filter>Core\Object\Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="CTextureMgr.h">
+      <Filter>Core\Manager\TextureMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CCamera.h">
+      <Filter>Core\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonster.h">
+      <Filter>Core\Object\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="CFbxMgr.h">
+      <Filter>Core\Manager\FbxMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CComponent.h">
+      <Filter>Core\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerController.h">
+      <Filter>Core\Component\PlayerController</Filter>
+    </ClInclude>
+    <ClInclude Include="CDepthShader.h">
+      <Filter>Core\Shader\DepthShader</Filter>
+    </ClInclude>
+    <ClInclude Include="CLight.h">
+      <Filter>Core\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="CShadowShader.h">
+      <Filter>Core\Shader\ShadowShader</Filter>
+    </ClInclude>
+    <ClInclude Include="CTexture.h">
+      <Filter>Core\Texture\TextureClass</Filter>
+    </ClInclude>
+    <ClInclude Include="CDepthTexture.h">
+      <Filter>Core\Texture\DepthTexture</Filter>
+    </ClInclude>
+    <ClInclude Include="CUI.h">
+      <Filter>Core\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIBuffer.h">
+      <Filter>Core\Buffer\UIBuffer</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIShader.h">
+      <Filter>Core\Shader\UIShader</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIMgr.h">
+      <Filter>Core\Manager\UIMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage1Scene.h">
+      <Filter>Core\Scene\Stage1Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="CCollider.h">
+      <Filter>Core\Component\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="CColliderBuffer.h">
+      <Filter>Core\Buffer\ColliderBuffer</Filter>
+    </ClInclude>
+    <ClInclude Include="CCollisionMgr.h">
+      <Filter>Core\Manager\CollisionMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CColliderShader.h">
+      <Filter>Core\Shader\ColliderShader</Filter>
+    </ClInclude>
+    <ClInclude Include="CRigidBody.h">
+      <Filter>Core\Component\RigidBody</Filter>
+    </ClInclude>
+    <ClInclude Include="CEventMgr.h">
+      <Filter>Core\Manager\EventMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CWall.h">
+      <Filter>Core\Object\Structure\Wall</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlane.h">
+      <Filter>Core\Object\Structure\Plane</Filter>
+    </ClInclude>
+    <ClInclude Include="CState.h">
+      <Filter>Core\MonsterState</Filter>
+    </ClInclude>
+    <ClInclude Include="CIdleState.h">
+      <Filter>Core\MonsterState\IdleState</Filter>
+    </ClInclude>
+    <ClInclude Include="CAttackState.h">
+      <Filter>Core\MonsterState\AttackState</Filter>
+    </ClInclude>
+    <ClInclude Include="CPatrolState.h">
+      <Filter>Core\MonsterState\PatrolState</Filter>
+    </ClInclude>
+    <ClInclude Include="CChaseState.h">
+      <Filter>Core\MonsterState\ChaseState</Filter>
+    </ClInclude>
+    <ClInclude Include="CBullet.h">
+      <Filter>Core\Object\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CPanelUI.h">
+      <Filter>Core\UI\PanelUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CMenuButton.h">
+      <Filter>Core\UI\MenuButton</Filter>
+    </ClInclude>
+    <ClInclude Include="CResumeButton.h">
+      <Filter>Core\UI\ResumeButton</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage1Button.h">
+      <Filter>Core\UI\Stage1Button</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage2Button.h">
+      <Filter>Core\UI\Stage2Button</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage3Button.h">
+      <Filter>Core\UI\Stage3Button</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage2Scene.h">
+      <Filter>Core\Scene\Stage2Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage3Scene.h">
+      <Filter>Core\Scene\Stage3Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="CBufferMgr.h">
+      <Filter>Core\Manager\BufferMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CNormalMonster.h">
+      <Filter>Core\Object\Monster\NormalMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="CEpicMonster.h">
+      <Filter>Core\Object\Monster\EpicMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameMgr.h">
+      <Filter>Core\Manager\GameMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CExitButton.h">
+      <Filter>Core\UI\ExitButton</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Endless.ico">
+      <Filter>Default\etc</Filter>
+    </Image>
+    <Image Include="small.ico">
+      <Filter>Default\etc</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Default\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="CTimeMgr.cpp">
+      <Filter>Core\Manager\TimeMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CD3DApp.cpp">
+      <Filter>Core\D3DApp</Filter>
+    </ClCompile>
+    <ClCompile Include="CCentral.cpp">
+      <Filter>Core\Central</Filter>
+    </ClCompile>
+    <ClCompile Include="CObject.cpp">
+      <Filter>Core\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="CScene.cpp">
+      <Filter>Core\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="CStartScene.cpp">
+      <Filter>Core\Scene\StartScene</Filter>
+    </ClCompile>
+    <ClCompile Include="CSceneMgr.cpp">
+      <Filter>Core\Manager\SceneMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CCommonShader.cpp">
+      <Filter>Core\Shader\CommonShader</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayer.cpp">
+      <Filter>Core\Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CShaderMgr.cpp">
+      <Filter>Core\Manager\ShaderMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="DDSTextureLoader11.cpp">
+      <Filter>Core\Texture\TextureLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="CKeyMgr.cpp">
+      <Filter>Core\Manager\KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CObjectBuffer.cpp">
+      <Filter>Core\Buffer\ObjectBuffer</Filter>
+    </ClCompile>
+    <ClCompile Include="CStructure.cpp">
+      <Filter>Core\Object\Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="CTextureMgr.cpp">
+      <Filter>Core\Manager\TextureMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CCamera.cpp">
+      <Filter>Core\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonster.cpp">
+      <Filter>Core\Object\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="CFbxMgr.cpp">
+      <Filter>Core\Manager\FbxMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CComponent.cpp">
+      <Filter>Core\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerController.cpp">
+      <Filter>Core\Component\PlayerController</Filter>
+    </ClCompile>
+    <ClCompile Include="CDepthShader.cpp">
+      <Filter>Core\Shader\DepthShader</Filter>
+    </ClCompile>
+    <ClCompile Include="CLight.cpp">
+      <Filter>Core\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="CShadowShader.cpp">
+      <Filter>Core\Shader\ShadowShader</Filter>
+    </ClCompile>
+    <ClCompile Include="CTexture.cpp">
+      <Filter>Core\Texture\TextureClass</Filter>
+    </ClCompile>
+    <ClCompile Include="CDepthTexture.cpp">
+      <Filter>Core\Texture\DepthTexture</Filter>
+    </ClCompile>
+    <ClCompile Include="CUI.cpp">
+      <Filter>Core\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIBuffer.cpp">
+      <Filter>Core\Buffer\UIBuffer</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIShader.cpp">
+      <Filter>Core\Shader\UIShader</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIMgr.cpp">
+      <Filter>Core\Manager\UIMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage1Scene.cpp">
+      <Filter>Core\Scene\Stage1Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="CCollider.cpp">
+      <Filter>Core\Component\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="CColliderBuffer.cpp">
+      <Filter>Core\Buffer\ColliderBuffer</Filter>
+    </ClCompile>
+    <ClCompile Include="CCollisionMgr.cpp">
+      <Filter>Core\Manager\CollisionMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CColliderShader.cpp">
+      <Filter>Core\Shader\ColliderShader</Filter>
+    </ClCompile>
+    <ClCompile Include="CRigidBody.cpp">
+      <Filter>Core\Component\RigidBody</Filter>
+    </ClCompile>
+    <ClCompile Include="CEventMgr.cpp">
+      <Filter>Core\Manager\EventMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CWall.cpp">
+      <Filter>Core\Object\Structure\Wall</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlane.cpp">
+      <Filter>Core\Object\Structure\Plane</Filter>
+    </ClCompile>
+    <ClCompile Include="CState.cpp">
+      <Filter>Core\MonsterState</Filter>
+    </ClCompile>
+    <ClCompile Include="CIdleState.cpp">
+      <Filter>Core\MonsterState\IdleState</Filter>
+    </ClCompile>
+    <ClCompile Include="CAttackState.cpp">
+      <Filter>Core\MonsterState\AttackState</Filter>
+    </ClCompile>
+    <ClCompile Include="CPatrolState.cpp">
+      <Filter>Core\MonsterState\PatrolState</Filter>
+    </ClCompile>
+    <ClCompile Include="CChaseState.cpp">
+      <Filter>Core\MonsterState\ChaseState</Filter>
+    </ClCompile>
+    <ClCompile Include="CBullet.cpp">
+      <Filter>Core\Object\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CPanelUI.cpp">
+      <Filter>Core\UI\PanelUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CMenuButton.cpp">
+      <Filter>Core\UI\MenuButton</Filter>
+    </ClCompile>
+    <ClCompile Include="CResumeButton.cpp">
+      <Filter>Core\UI\ResumeButton</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage1Button.cpp">
+      <Filter>Core\UI\Stage1Button</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage2Button.cpp">
+      <Filter>Core\UI\Stage2Button</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage3Button.cpp">
+      <Filter>Core\UI\Stage3Button</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage2Scene.cpp">
+      <Filter>Core\Scene\Stage2Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage3Scene.cpp">
+      <Filter>Core\Scene\Stage3Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="CBufferMgr.cpp">
+      <Filter>Core\Manager\BufferMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CNormalMonster.cpp">
+      <Filter>Core\Object\Monster\NormalMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="CEpicMonster.cpp">
+      <Filter>Core\Object\Monster\EpicMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameMgr.cpp">
+      <Filter>Core\Manager\GameMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CExitButton.cpp">
+      <Filter>Core\UI\ExitButton</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Endless.rc">
+      <Filter>Default\etc</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="data\cube.txt">
+      <Filter>Core\Object</Filter>
+    </Text>
+    <Text Include="data\sphere.txt">
+      <Filter>Core\Object\Bullet</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="collider_ps.hlsl">
+      <Filter>Core\Shader\ColliderShader</Filter>
+    </FxCompile>
+    <FxCompile Include="collider_vs.hlsl">
+      <Filter>Core\Shader\ColliderShader</Filter>
+    </FxCompile>
+    <FxCompile Include="common_ps.hlsl">
+      <Filter>Core\Shader\CommonShader</Filter>
+    </FxCompile>
+    <FxCompile Include="common_vs.hlsl">
+      <Filter>Core\Shader\CommonShader</Filter>
+    </FxCompile>
+    <FxCompile Include="depth_ps.hlsl">
+      <Filter>Core\Shader\DepthShader</Filter>
+    </FxCompile>
+    <FxCompile Include="depth_vs.hlsl">
+      <Filter>Core\Shader\DepthShader</Filter>
+    </FxCompile>
+    <FxCompile Include="shadow_vs.hlsl">
+      <Filter>Core\Shader\ShadowShader</Filter>
+    </FxCompile>
+    <FxCompile Include="shadow_ps.hlsl">
+      <Filter>Core\Shader\ShadowShader</Filter>
+    </FxCompile>
+    <FxCompile Include="ui_vs.hlsl">
+      <Filter>Core\Shader\UIShader</Filter>
+    </FxCompile>
+    <FxCompile Include="ui_ps.hlsl">
+      <Filter>Core\Shader\UIShader</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

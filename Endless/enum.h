@@ -1,0 +1,89 @@
+#pragma once
+
+enum class OBJECT_TYPE
+{
+	PLAYER,
+	MONSTER,
+	STRUCTURE,
+	BULLET,
+	END,
+};
+
+enum class GAME_STATE
+{
+	PLAYING,
+	CLEAR,
+	OVER,
+	END,
+};
+
+enum class SCENE_TYPE
+{
+	START,
+	STAGE1,
+	STAGE2,
+	STAGE3,
+	END,
+};
+
+enum class KEY_STATE
+{
+	NONE,
+	TAP,
+	AWAY,
+	HOLD,
+};
+
+enum class COMPONENT_TYPE
+{
+	CONTROLLER,
+	RIGIDBODY,
+	COLLIDER,
+	END,
+};
+
+enum class COLLISION_STATE
+{
+	NONE,
+	ENTER,
+	COLLISION,
+	EXIT,
+};
+
+enum class MONSTER_STATE
+{
+	IDLE,
+	PATROL,
+	CHASE,
+	ATTACK,
+	END,
+};
+
+enum class KEY_BUTTON
+{
+	KEY_A,
+	KEY_S,
+	KEY_D,
+	KEY_W,
+	KEY_R,
+	KEY_0,
+	KEY_1,
+	KEY_2,
+	KEY_3,
+	KEY_4,
+	KEY_5,
+	KEY_UP,
+	KEY_LEFT,
+	KEY_RIGHT,
+	KEY_DOWN,
+	KEY_SPACE,
+	KEY_ESC,
+	END,
+};
+
+enum class MOUSE_BUTTON
+{
+	LEFT,
+	RIGHT,
+	END,
+};

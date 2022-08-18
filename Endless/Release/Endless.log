@@ -1,0 +1,102 @@
+﻿  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Release\common_ps.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Release\common_vs.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Release\depth_ps.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Release\depth_vs.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Release\shadow_ps.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Release\shadow_vs.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Release\ui_vs.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Release\ui_ps.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Release\collider_ps.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Release\collider_vs.cso
+  CAttackState.cpp
+  CBufferMgr.cpp
+  CBullet.cpp
+  CCamera.cpp
+  CCentral.cpp
+  CChaseState.cpp
+  CCollider.cpp
+  CColliderBuffer.cpp
+  CCollisionMgr.cpp
+  CColliderShader.cpp
+  CComponent.cpp
+  CD3DApp.cpp
+  CDepthShader.cpp
+  CDepthTexture.cpp
+  CEpicMonster.cpp
+  CEventMgr.cpp
+  CExitButton.cpp
+  CFbxMgr.cpp
+  CGameMgr.cpp
+  CGameOverUI.cpp
+  컴파일하고 있습니다...
+  CIdleState.cpp
+  CKeyMgr.cpp
+  CLight.cpp
+  CMenuButton.cpp
+  CMonster.cpp
+  CNormalMonster.cpp
+  CObject.cpp
+  CObjectBuffer.cpp
+  CPanelUI.cpp
+  CPatrolState.cpp
+  CPlane.cpp
+  CPlayer.cpp
+  CCommonShader.cpp
+  CPlayerController.cpp
+  CResumeButton.cpp
+  CRigidBody.cpp
+  CScene.cpp
+  CSceneMgr.cpp
+  CShaderMgr.cpp
+  CShadowShader.cpp
+  컴파일하고 있습니다...
+  CStage1Button.cpp
+  CStage1Scene.cpp
+C:\Users\sejin\Desktop\folder\Portfolio\Endless\Endless\CStage1Scene.cpp(94,28): warning C4316: 'CLight': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  CStage2Button.cpp
+  CStage2Scene.cpp
+C:\Users\sejin\Desktop\folder\Portfolio\Endless\Endless\CStage2Scene.cpp(94,28): warning C4316: 'CLight': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  CStage3Button.cpp
+  CStage3Scene.cpp
+C:\Users\sejin\Desktop\folder\Portfolio\Endless\Endless\CStage3Scene.cpp(93,28): warning C4316: 'CLight': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  CStartScene.cpp
+C:\Users\sejin\Desktop\folder\Portfolio\Endless\Endless\CStartScene.cpp(91,28): warning C4316: 'CLight': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  CState.cpp
+  CStructure.cpp
+  CTexture.cpp
+  CTextureMgr.cpp
+  CUIMgr.cpp
+  CUIShader.cpp
+  CTimeMgr.cpp
+  CUI.cpp
+  CUIBuffer.cpp
+  CWall.cpp
+  main.cpp
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __thiscall fbxsdk::FbxImporter::Import(class fbxsdk::FbxDocument *,bool)" (?Import@FbxImporter@fbxsdk@@QAE_NPAVFbxDocument@2@_N@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: static class fbxsdk::FbxImporter * __cdecl fbxsdk::FbxImporter::Create(class fbxsdk::FbxManager *,char const *)" (?Create@FbxImporter@fbxsdk@@SAPAV12@PAVFbxManager@2@PBD@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxVector4::FbxVector4(void)" (??0FbxVector4@fbxsdk@@QAE@XZ)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxVector4::FbxVector4(class fbxsdk::FbxVector4 const &)" (??0FbxVector4@fbxsdk@@QAE@ABV01@@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: class fbxsdk::FbxNode * __thiscall fbxsdk::FbxScene::GetRootNode(void)const " (?GetRootNode@FbxScene@fbxsdk@@QBEPAVFbxNode@2@XZ)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: static class fbxsdk::FbxScene * __cdecl fbxsdk::FbxScene::Create(class fbxsdk::FbxManager *,char const *)" (?Create@FbxScene@fbxsdk@@SAPAV12@PAVFbxManager@2@PBD@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxMesh::GetTextureUVIndex(int,int,enum fbxsdk::FbxLayerElement::EType)" (?GetTextureUVIndex@FbxMesh@fbxsdk@@QAEHHHW4EType@FbxLayerElement@2@@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: static class fbxsdk::FbxManager * __cdecl fbxsdk::FbxManager::Create(void)" (?Create@FbxManager@fbxsdk@@SAPAV12@XZ)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: static class fbxsdk::FbxIOSettings * __cdecl fbxsdk::FbxIOSettings::Create(class fbxsdk::FbxManager *,char const *)" (?Create@FbxIOSettings@fbxsdk@@SAPAV12@PAVFbxManager@2@PBD@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxGeometryConverter::~FbxGeometryConverter(void)" (??1FbxGeometryConverter@fbxsdk@@QAE@XZ)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxGeometryConverter::FbxGeometryConverter(class fbxsdk::FbxManager *)" (??0FbxGeometryConverter@fbxsdk@@QAE@PAVFbxManager@1@@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __thiscall fbxsdk::FbxGeometryConverter::Triangulate(class fbxsdk::FbxScene *,bool,bool)" (?Triangulate@FbxGeometryConverter@fbxsdk@@QAE_NPAVFbxScene@2@_N1@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxVector2::FbxVector2(void)" (??0FbxVector2@fbxsdk@@QAE@XZ)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxVector2::FbxVector2(class fbxsdk::FbxVector2 const &)" (??0FbxVector2@fbxsdk@@QAE@ABV01@@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: class fbxsdk::FbxLayerElementUV * __thiscall fbxsdk::FbxGeometryBase::GetElementUV(int,enum fbxsdk::FbxLayerElement::EType)" (?GetElementUV@FbxGeometryBase@fbxsdk@@QAEPAVFbxLayerElementUV@2@HW4EType@FbxLayerElement@2@@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: class fbxsdk::FbxLayerElementNormal * __thiscall fbxsdk::FbxGeometryBase::GetElementNormal(int)" (?GetElementNormal@FbxGeometryBase@fbxsdk@@QAEPAVFbxLayerElementNormal@2@H@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: bool __thiscall fbxsdk::FbxLayerElementArray::GetAt(int,void * *,enum fbxsdk::EFbxType)const " (?GetAt@FbxLayerElementArray@fbxsdk@@QBE_NHPAPAXW4EFbxType@2@@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: class fbxsdk::FbxNodeAttribute * __thiscall fbxsdk::FbxNode::GetNodeAttribute(void)" (?GetNodeAttribute@FbxNode@fbxsdk@@QAEPAVFbxNodeAttribute@2@XZ)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: class fbxsdk::FbxNode * __thiscall fbxsdk::FbxNode::GetChild(int)" (?GetChild@FbxNode@fbxsdk@@QAEPAV12@H@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxNode::GetChildCount(bool)const " (?GetChildCount@FbxNode@fbxsdk@@QBEH_N@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: void __thiscall fbxsdk::FbxObject::Destroy(bool)" (?Destroy@FbxObject@fbxsdk@@QAEX_N@Z)
+C:\Users\sejin\Desktop\folder\Portfolio\Endless\Release\Endless.exe : fatal error LNK1120: 27개의 확인할 수 없는 외부 참조입니다.

@@ -1,0 +1,506 @@
+﻿  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Debug\common_ps.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Debug\common_vs.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Debug\depth_ps.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Debug\depth_vs.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Debug\shadow_ps.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Debug\shadow_vs.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Debug\ui_vs.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Debug\ui_ps.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Debug\collider_ps.cso
+  compilation object save succeeded; see C:\Users\sejin\Desktop\folder\Portfolio\Endless\Debug\collider_vs.cso
+  CAttackState.cpp
+  CBufferMgr.cpp
+  CBullet.cpp
+  CCamera.cpp
+  CCentral.cpp
+  CChaseState.cpp
+  CCollider.cpp
+  CColliderBuffer.cpp
+  CCollisionMgr.cpp
+  CColliderShader.cpp
+  CComponent.cpp
+  CD3DApp.cpp
+  CDepthShader.cpp
+  CDepthTexture.cpp
+  CEpicMonster.cpp
+  CEventMgr.cpp
+  CExitButton.cpp
+  CFbxMgr.cpp
+  CGameMgr.cpp
+  CGameOverUI.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CIdleState.cpp
+  CKeyMgr.cpp
+  CLight.cpp
+  CMenuButton.cpp
+  CMonster.cpp
+  CNormalMonster.cpp
+  CObject.cpp
+  CObjectBuffer.cpp
+  CPanelUI.cpp
+  CPatrolState.cpp
+  CPlane.cpp
+  CPlayer.cpp
+  CCommonShader.cpp
+  CPlayerController.cpp
+  CResumeButton.cpp
+  CRigidBody.cpp
+  CScene.cpp
+  CSceneMgr.cpp
+  CShaderMgr.cpp
+  CShadowShader.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CStage1Button.cpp
+  CStage1Scene.cpp
+C:\Users\sejin\Desktop\folder\Portfolio\Endless\Endless\CStage1Scene.cpp(94,28): warning C4316: 'CLight': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  CStage2Button.cpp
+  CStage2Scene.cpp
+C:\Users\sejin\Desktop\folder\Portfolio\Endless\Endless\CStage2Scene.cpp(94,28): warning C4316: 'CLight': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  CStage3Button.cpp
+  CStage3Scene.cpp
+C:\Users\sejin\Desktop\folder\Portfolio\Endless\Endless\CStage3Scene.cpp(93,28): warning C4316: 'CLight': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  CStartScene.cpp
+C:\Users\sejin\Desktop\folder\Portfolio\Endless\Endless\CStartScene.cpp(91,28): warning C4316: 'CLight': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  CState.cpp
+  CStructure.cpp
+  CTexture.cpp
+  CTextureMgr.cpp
+  CUIMgr.cpp
+  CUIShader.cpp
+  CTimeMgr.cpp
+  CUI.cpp
+  CUIBuffer.cpp
+  CWall.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+CWall.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CUIShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CTimeMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CUIBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CStructure.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CTextureMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CUIMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CStage3Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CStage3Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CStartScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CStage1Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CStage1Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CStage2Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CStage2Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CSceneMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CShaderMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CShadowShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CCommonShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CPlayerController.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CResumeButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CRigidBody.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CPanelUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CPatrolState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CPlane.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CPlayer.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CNormalMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CObject.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CObjectBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CIdleState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CKeyMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CLight.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CMenuButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CExitButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CGameMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CGameOverUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CDepthShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CDepthTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CEpicMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CEventMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CCollisionMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CColliderShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CComponent.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CD3DApp.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CCentral.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CChaseState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CCollider.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CColliderBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CBufferMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CBullet.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CCamera.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::_FbxAssert(char const *,char const *,unsigned int,bool,char const *,...)" (?_FbxAssert@fbxsdk@@YAXPBD0I_N0ZZ)
+CWall.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CUIShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CTimeMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CUIBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CStructure.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CTextureMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CUIMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CStage3Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CStage3Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CStartScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CStage1Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CStage1Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CStage2Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CStage2Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CSceneMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CShaderMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CShadowShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CCommonShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CPlayerController.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CResumeButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CRigidBody.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CPanelUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CPatrolState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CPlane.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CPlayer.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CNormalMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CObject.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CObjectBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CIdleState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CKeyMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CLight.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CMenuButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CExitButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CGameMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CGameOverUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CDepthShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CDepthTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CEpicMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CEventMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CCollisionMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CColliderShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CComponent.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CD3DApp.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CCentral.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CChaseState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CCollider.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CColliderBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CBufferMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CBullet.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CCamera.obj : error LNK2001: 확인할 수 없는 외부 기호 "void * __cdecl fbxsdk::FbxMalloc(unsigned int)" (?FbxMalloc@fbxsdk@@YAPAXI@Z)
+CWall.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CUIShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CTimeMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CUIBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CStructure.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CTextureMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CUIMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CStage3Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CStage3Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CStartScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CStage1Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CStage1Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CStage2Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CStage2Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CSceneMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CShaderMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CShadowShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CCommonShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CPlayerController.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CResumeButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CRigidBody.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CPanelUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CPatrolState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CPlane.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CPlayer.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CNormalMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CObject.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CObjectBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CIdleState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CKeyMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CLight.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CMenuButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CExitButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CGameMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CGameOverUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CDepthShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CDepthTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CEpicMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CEventMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CCollisionMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CColliderShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CComponent.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CD3DApp.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CCentral.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CChaseState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CCollider.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CColliderBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CBufferMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CBullet.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CCamera.obj : error LNK2001: 확인할 수 없는 외부 기호 "void __cdecl fbxsdk::FbxFree(void *)" (?FbxFree@fbxsdk@@YAXPAX@Z)
+CWall.obj : error LNK2019: "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)"void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned int)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPAXI@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CUIShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CTimeMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CUIBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CStructure.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CTextureMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CUIMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CStage3Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CStage3Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CStartScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CStage1Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CStage1Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CStage2Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CStage2Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CSceneMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CShaderMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CShadowShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CCommonShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CPlayerController.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CResumeButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CRigidBody.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CPanelUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CPatrolState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CPlane.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CPlayer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CNormalMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CObject.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CObjectBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CIdleState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CKeyMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CLight.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CMenuButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CExitButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CGameMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CGameOverUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CDepthShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CDepthTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CEpicMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CEventMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CCollisionMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CColliderShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CComponent.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CD3DApp.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CCentral.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CChaseState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CCollider.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CColliderBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CBufferMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CBullet.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CCamera.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::FbxString(class fbxsdk::FbxString const &)" (??0FbxString@fbxsdk@@QAE@ABV01@@Z)
+CWall.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CUIShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CTimeMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CUIBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CStructure.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CTextureMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CUIMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CStage3Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CStage3Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CStartScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CStage1Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CStage1Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CStage2Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CStage2Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CSceneMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CShaderMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CShadowShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CCommonShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CPlayerController.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CResumeButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CRigidBody.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CPanelUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CPatrolState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CPlane.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CPlayer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CNormalMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CObject.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CObjectBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CIdleState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CKeyMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CLight.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CMenuButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CExitButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CGameMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CGameOverUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CDepthShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CDepthTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CEpicMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CEventMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CCollisionMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CColliderShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CComponent.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CD3DApp.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CCentral.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CChaseState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CCollider.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CColliderBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CBufferMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CBullet.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CCamera.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::~FbxString(void)" (??1FbxString@fbxsdk@@QAE@XZ)
+CWall.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CUIShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CTimeMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CUIBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CStructure.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CTextureMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CUIMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CStage3Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CStage3Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CStartScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CStage1Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CStage1Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CStage2Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CStage2Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CSceneMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CShaderMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CShadowShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CCommonShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CPlayerController.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CResumeButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CRigidBody.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CPanelUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CPatrolState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CPlane.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CPlayer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CNormalMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CObject.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CObjectBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CIdleState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CKeyMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CLight.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CMenuButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CExitButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CGameMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CGameOverUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CDepthShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CDepthTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CEpicMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CEventMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CCollisionMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CColliderShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CComponent.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CD3DApp.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CCentral.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CChaseState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CCollider.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CColliderBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CBufferMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CBullet.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CCamera.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __thiscall fbxsdk::FbxString::operator char const *(void)const " (??BFbxString@fbxsdk@@QBEPBDXZ)
+CWall.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CUIShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CTimeMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CUIBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CStructure.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CTextureMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CUIMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CStage3Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CStage3Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CStartScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CStage1Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CStage1Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CStage2Button.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CStage2Scene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CScene.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CSceneMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CShaderMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CShadowShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CCommonShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CPlayerController.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CResumeButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CRigidBody.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CPanelUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CPatrolState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CPlane.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CPlayer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CNormalMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CObject.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CObjectBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CIdleState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CKeyMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CLight.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CMenuButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CExitButton.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CFbxMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CGameMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CGameOverUI.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CDepthShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CDepthTexture.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CEpicMonster.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CEventMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CCollisionMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CColliderShader.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CComponent.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CD3DApp.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CCentral.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CChaseState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CCollider.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CColliderBuffer.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CAttackState.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CBufferMgr.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CBullet.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CCamera.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: int __thiscall fbxsdk::FbxString::Compare(char const *)const " (?Compare@FbxString@fbxsdk@@QBEHPBD@Z)
+CFbxMgr.obj : error LNK2019: "public: __thiscall fbxsdk::FbxVector2::FbxVector2(void)" (??0FbxVector2@fbxsdk@@QAE@XZ)"public: class fbxsdk::FbxVector2 __thiscall fbxsdk::FbxLayerElementArrayTemplate<class fbxsdk::FbxVector2>::GetAt(int)const " (?GetAt@?$FbxLayerElementArrayTemplate@VFbxVector2@fbxsdk@@@fbxsdk@@QBE?AVFbxVector2@2@H@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: __thiscall fbxsdk::FbxVector2::FbxVector2(class fbxsdk::FbxVector2 const &)" (??0FbxVector2@fbxsdk@@QAE@ABV01@@Z)"public: class fbxsdk::FbxVector2 __thiscall fbxsdk::FbxLayerElementArrayTemplate<class fbxsdk::FbxVector2>::GetAt(int)const " (?GetAt@?$FbxLayerElementArrayTemplate@VFbxVector2@fbxsdk@@@fbxsdk@@QBE?AVFbxVector2@2@H@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: __thiscall fbxsdk::FbxVector4::FbxVector4(void)" (??0FbxVector4@fbxsdk@@QAE@XZ)"public: class fbxsdk::FbxVector4 __thiscall fbxsdk::FbxLayerElementArrayTemplate<class fbxsdk::FbxVector4>::GetAt(int)const " (?GetAt@?$FbxLayerElementArrayTemplate@VFbxVector4@fbxsdk@@@fbxsdk@@QBE?AVFbxVector4@2@H@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: __thiscall fbxsdk::FbxVector4::FbxVector4(class fbxsdk::FbxVector4 const &)" (??0FbxVector4@fbxsdk@@QAE@ABV01@@Z)"public: class fbxsdk::FbxVector4 __thiscall fbxsdk::FbxLayerElementArrayTemplate<class fbxsdk::FbxVector4>::GetAt(int)const " (?GetAt@?$FbxLayerElementArrayTemplate@VFbxVector4@fbxsdk@@@fbxsdk@@QBE?AVFbxVector4@2@H@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: void __thiscall fbxsdk::FbxObject::Destroy(bool)" (?Destroy@FbxObject@fbxsdk@@QAEX_N@Z)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: static class fbxsdk::FbxManager * __cdecl fbxsdk::FbxManager::Create(void)" (?Create@FbxManager@fbxsdk@@SAPAV12@XZ)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: static class fbxsdk::FbxIOSettings * __cdecl fbxsdk::FbxIOSettings::Create(class fbxsdk::FbxManager *,char const *)" (?Create@FbxIOSettings@fbxsdk@@SAPAV12@PAVFbxManager@2@PBD@Z)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: static class fbxsdk::FbxImporter * __cdecl fbxsdk::FbxImporter::Create(class fbxsdk::FbxManager *,char const *)" (?Create@FbxImporter@fbxsdk@@SAPAV12@PAVFbxManager@2@PBD@Z)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: bool __thiscall fbxsdk::FbxImporter::Import(class fbxsdk::FbxDocument *,bool)" (?Import@FbxImporter@fbxsdk@@QAE_NPAVFbxDocument@2@_N@Z)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: int __thiscall fbxsdk::FbxNode::GetChildCount(bool)const " (?GetChildCount@FbxNode@fbxsdk@@QBEH_N@Z)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: class fbxsdk::FbxNode * __thiscall fbxsdk::FbxNode::GetChild(int)" (?GetChild@FbxNode@fbxsdk@@QAEPAV12@H@Z)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: class fbxsdk::FbxNodeAttribute * __thiscall fbxsdk::FbxNode::GetNodeAttribute(void)" (?GetNodeAttribute@FbxNode@fbxsdk@@QAEPAVFbxNodeAttribute@2@XZ)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: bool __thiscall fbxsdk::FbxLayerElementArray::GetAt(int,void * *,enum fbxsdk::EFbxType)const " (?GetAt@FbxLayerElementArray@fbxsdk@@QBE_NHPAPAXW4EFbxType@2@@Z)"public: bool __thiscall fbxsdk::FbxLayerElementArray::GetAt<int>(int,int *)const " (??$GetAt@H@FbxLayerElementArray@fbxsdk@@QBE_NHPAH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: static class fbxsdk::FbxScene * __cdecl fbxsdk::FbxScene::Create(class fbxsdk::FbxManager *,char const *)" (?Create@FbxScene@fbxsdk@@SAPAV12@PAVFbxManager@2@PBD@Z)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: class fbxsdk::FbxNode * __thiscall fbxsdk::FbxScene::GetRootNode(void)const " (?GetRootNode@FbxScene@fbxsdk@@QBEPAVFbxNode@2@XZ)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: class fbxsdk::FbxLayerElementNormal * __thiscall fbxsdk::FbxGeometryBase::GetElementNormal(int)" (?GetElementNormal@FbxGeometryBase@fbxsdk@@QAEPAVFbxLayerElementNormal@2@H@Z)"public: void __thiscall CFbxMgr::ReadNormal(class fbxsdk::FbxMesh *,int,int,struct ModelType &)" (?ReadNormal@CFbxMgr@@QAEXPAVFbxMesh@fbxsdk@@HHAAUModelType@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: class fbxsdk::FbxLayerElementUV * __thiscall fbxsdk::FbxGeometryBase::GetElementUV(int,enum fbxsdk::FbxLayerElement::EType)" (?GetElementUV@FbxGeometryBase@fbxsdk@@QAEPAVFbxLayerElementUV@2@HW4EType@FbxLayerElement@2@@Z)"public: void __thiscall CFbxMgr::ReadUV(class fbxsdk::FbxMesh *,int,int,struct ModelType &)" (?ReadUV@CFbxMgr@@QAEXPAVFbxMesh@fbxsdk@@HHAAUModelType@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: int __thiscall fbxsdk::FbxMesh::GetTextureUVIndex(int,int,enum fbxsdk::FbxLayerElement::EType)" (?GetTextureUVIndex@FbxMesh@fbxsdk@@QAEHHHW4EType@FbxLayerElement@2@@Z)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: bool __thiscall fbxsdk::FbxGeometryConverter::Triangulate(class fbxsdk::FbxScene *,bool,bool)" (?Triangulate@FbxGeometryConverter@fbxsdk@@QAE_NPAVFbxScene@2@_N1@Z)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: __thiscall fbxsdk::FbxGeometryConverter::FbxGeometryConverter(class fbxsdk::FbxManager *)" (??0FbxGeometryConverter@fbxsdk@@QAE@PAVFbxManager@1@@Z)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CFbxMgr.obj : error LNK2019: "public: __thiscall fbxsdk::FbxGeometryConverter::~FbxGeometryConverter(void)" (??1FbxGeometryConverter@fbxsdk@@QAE@XZ)"public: void __thiscall CFbxMgr::LoadFbxModel(char const *,class std::vector<struct ModelType,class std::allocator<struct ModelType> > &,class std::vector<unsigned int,class std::allocator<unsigned int> > &)" (?LoadFbxModel@CFbxMgr@@QAEXPBDAAV?$vector@UModelType@@V?$allocator@UModelType@@@std@@@std@@AAV?$vector@IV?$allocator@I@std@@@3@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Program Files\Autodesk\FBX\FBX SDK\2019.0\lib\vs2015\x64\debug\libfbxsdk.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\sejin\Desktop\folder\Portfolio\Endless\Debug\Endless.exe : fatal error LNK1120: 28개의 확인할 수 없는 외부 참조입니다.
